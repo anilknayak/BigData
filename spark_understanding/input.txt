@@ -1,0 +1,4 @@
+Hinton was one of the first researchers who demonstrated the use of generalized backpropagation algorithm for
+training multi-layer neural nets. He is a leading figure in the deep learning community and
+is called by some as the "Godfather of Deep Learning".
+His dramatic image-recognition milestone in Imagenet challenge 2012 revolutionized the field of computer vision.
